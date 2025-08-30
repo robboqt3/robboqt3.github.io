@@ -78,4 +78,3 @@ The puppet building process is as much about storytelling as it is about craftsm
 
 ---
 
-*Final post: Education and sharing knowledge*
