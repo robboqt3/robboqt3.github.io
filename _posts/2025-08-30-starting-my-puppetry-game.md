@@ -5,7 +5,7 @@ date: 2025-08-30
 categories: introduction
 ---
 
-Welcome to my blog! I'm documenting my journey creating a unique game that combines puppetry with interactive gaming.
+Welcome to my blog! I'm documenting my journey creating a unique experience that combines puppetry with tabletop RPG gaming.
 
 ## The Vision
 You know how people play Dungeons & Dragons around a table? Well, I'm building this puppet theater setup where I sit inside it as the game master and use puppets to play all the different characters the players meet - like the tavern keeper, villains, magical creatures, that sort of thing.
