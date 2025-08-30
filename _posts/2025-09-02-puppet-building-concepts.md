@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Puppet Building Concepts: Bringing Characters to Life"
-date: 2025-09-02
+date: 2025-8-30
 categories: construction puppets design
 tags: puppet-making materials characters creatures
 ---
