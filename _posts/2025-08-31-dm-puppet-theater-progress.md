@@ -25,7 +25,6 @@ After considering many approaches, I've identified the key features needed:
 - **Dimensions:** 36" wide x 36" deep x 60" tall when assembled
 - **Assembly:** I do not glue any of the pipes into the joints, so setup takes 5 minutes.
 - **Status:** Frame complete, currently spray painting the pipes to be a theatrical gold color.
-![Photo description](images/IMG_8649.jpg)
 
 ### Stage Elements
 - **Backdrop System:** Curtains my wife found at our local Swap Shop.  I hemmed them myself with a sewing machine (my first time sewing!).
