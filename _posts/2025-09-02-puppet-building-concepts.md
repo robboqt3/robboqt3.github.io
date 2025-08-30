@@ -6,14 +6,14 @@ categories: construction puppets design
 tags: puppet-making materials characters creatures
 ---
 
-Creating puppets for gaming requires a unique approach that balances artistry, durability, and functionality. Here's my evolving methodology for building gaming puppets that can withstand the rigors of regular play while maintaining expressive character.
+Creating puppets for gaming requires a unique approach that balances artistry, functionality, and efficiency.  This has been the biggest challenge of the project so far.  I wwnt the puppets to be objects that people would appreciate on their own, but also fast and easy to make, and easily discarded or remade as the game continues and old puppets are replaced in the story by new puppets.
 
 ## Design Philosophy
 
 ### Gaming-First Approach
 Unlike traditional puppets designed for single performances, gaming puppets need to:
-- Survive hundreds of gaming sessions
-- Be manipulated by potentially inexperienced hands
+- Be ready for a single use.  The puppet goblin might be dead in one swing of a sword.  I can't spend too much time making them.
+- Be modifiable.  If I have one solid NPC puppet that can wear different hats or garb, then I have a shopkeeper in every town with one puppet.
 - Represent diverse fantasy characters and creatures
 - Store compactly and transport safely
 
@@ -64,29 +64,6 @@ Unlike traditional puppets designed for single performances, gaming puppets need
 **Upgrade Paths:** Adding detail and complexity over time
 **Repair-Friendly:** Individual components can be rebuilt as needed
 
-### Technology Integration
-**LED Eyes:** Battery-powered illumination for dramatic effect
-**Magnetic Mounting:** Quick attachment to theater elements
-**RFID Tags:** Digital integration for character stat tracking
-
-### Specialized Tools
-**Custom Jigs:** Consistent sizing and proportions
-**Templates:** Repeatable shapes and patterns
-**Storage Solutions:** Protective cases for transport and storage
-
-## Quality Standards
-
-### Durability Testing
-- Stress testing joints and connection points
-- Repeated manipulation scenarios
-- Storage and transport impact assessment
-- Long-term material degradation monitoring
-
-### Performance Metrics
-- Setup/breakdown time per puppet
-- Manipulation ease and range of motion
-- Visual impact from player seating positions
-- Maintenance and repair frequency
 
 ## Cultural Considerations
 
@@ -96,19 +73,8 @@ Unlike traditional puppets designed for single performances, gaming puppets need
 - Inclusive character options for all players
 - Cultural sensitivity in creature and NPC design
 
-### Accessibility
-- Puppets designed for different hand sizes and abilities
-- Color choices that work for colorblind users
-- Clear character differentiation for players with visual challenges
 
-## Future Developments
-
-**AI-Assisted Design:** Using digital tools for optimal puppet proportions
-**Community Patterns:** Sharing templates and techniques with other builders
-**Advanced Materials:** Exploring new fabrics and construction methods
-**Professional Consultation:** Learning from master puppeteers and craftspeople
-
-The puppet building process is as much about storytelling as it is about craftsmanship. Each puppet needs to be not just a beautiful object, but a functional tool for collaborative narrative creation.
+The puppet building process is as much about storytelling as it is about craftsmanship. Each puppet needs to be not just a beautiful object, but a functional tool for collaborative narrative creation.  This is so hard! 
 
 ---
 
