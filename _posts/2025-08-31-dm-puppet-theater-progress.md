@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building the DM's Puppet Theater: Progress and Challenges"
-date: 2025-08-31
+date: 2025-08-30
 categories: construction theater dm-tools
 tags: woodworking design theater-building
 ---
