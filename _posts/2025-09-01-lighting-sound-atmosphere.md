@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lighting, Sound, and Atmospheric Magic"
-date: 2025-09-01
+date: 2025-08-30
 categories: technical atmosphere effects
 tags: lighting sound ambiance electronics
 ---
