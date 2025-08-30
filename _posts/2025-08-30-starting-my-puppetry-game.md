@@ -8,11 +8,11 @@ categories: introduction
 Welcome to my blog! I'm documenting my journey creating a unique experience that combines puppetry with tabletop RPG gaming.
 
 ## The Vision
-You know how people play Dungeons & Dragons around a table? Well, I'm building this puppet theater setup where I sit inside it as the game master and use puppets to play all the different characters the players meet - like the tavern keeper, villains, magical creatures, that sort of thing.
+You know how people play roleplaying games around a table? Well, I'm building this puppet theater setup where I sit inside it as the game master and use puppets to play all the different characters the players meet - like the tavern keeper, villains, magical creatures, that sort of thing.
 
-It's like combining traditional tabletop gaming with a live puppet show. The players still have their character sheets and dice, but instead of me just describing an innkeeper, I actually have a puppet that talks to them! Makes the whole experience way more theatrical and immersive.
+It's like combining traditional tabletop gaming with a live puppet show. The players still have their character sheets and dice, but instead of me just describing an innkeeper, I actually have a puppet that talks to them. It is intended to make the whole experience way more theatrical and immersive.
 
-I have built the frame out of PVC pipe and I'm working on the curtains now. It sounds crazy but it's actually really engaging - brings the story to life in a totally different way!"
+I have built the frame of my theater out of PVC pipe and I'm working on the curtains now. It sounds crazy but I think it will be very engaging and people will be excited to try it.
 
 ## Am I crazy?
 - I have a lot of skeptics, both from people outside of TTRPGs (you're doing what??) and inside of TTRPGs (you're going to need so many puppets), and to help me keep going, I am documenting my progress in a blog.  Hopefully I will find some people who believe in this concept.
